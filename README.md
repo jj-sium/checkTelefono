@@ -43,3 +43,4 @@
 ###### Se nessuno dei controlli passa, il metodo restituisce una stringa vuota.
 ###### 
         return "";
+## Grazie per aver ascoltato la spiegazione scritta dall'alunno Ghinelli Johan V. , Alunno di Conti M. e Ugolini G.
